@@ -1,0 +1,6 @@
+
+http://mimshaa7.pythonanywhere.com/
+
+Django Admin:
+username: mimshaa7
+password: @@654321
